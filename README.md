@@ -24,5 +24,5 @@ Get useful informations and search the folders, then copy to selected folder
 ### TODO
 * graphic interface
 * class arrangement
-* md5 hashes export to json file
+* use json
 * id3 tag edit 
